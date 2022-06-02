@@ -1,0 +1,20 @@
+.RadioClass{
+    margin-bottom: 10px;
+}
+.RadioClassItem{
+    display: flex;
+    gap: 3px;
+}
+.RadioClassItem label{
+    font-size: 14px;
+    color: rgb(105, 105, 105);
+}
+.RadioClass input{
+    margin-right: 10px;
+}
+.RadioClass label{
+    color: gray;
+}
+.newClassItems input[type=date]{
+    color: gray;
+}

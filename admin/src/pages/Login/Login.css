@@ -1,0 +1,22 @@
+.loginpWrapper{
+    width: 100%;
+    background-color: rgb(230, 230, 230);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding: 40px;
+}
+.loginform{
+    width: 40%;
+    background-color: white;
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.TheForm>small{
+    color: gray;
+}

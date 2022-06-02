@@ -1,0 +1,10 @@
+.subComboSelect{
+    height: 40px;
+    background-color: transparent;
+    margin-bottom: 10px;
+    border: 1px solid rgb(190, 190, 190);
+    padding-left: 10px;
+    color: gray;
+    cursor: pointer;
+    font-size: 14px;
+}

@@ -1,0 +1,41 @@
+.newClass{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.newClassForm{
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 5px;
+}
+.newClassItems{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.newClassItems label{
+    margin-bottom: 2px;
+    font-size: 15px;
+    color: gray;
+}
+.newClassItems>input{
+    height: 40px;
+    padding: 5px 10px;
+    border: 1px solid rgb(169, 169, 169);
+    border-radius: 2px;
+}
+.newClassItems>small{
+    color: rgb(199, 199, 199);
+}
+.newClassBtn button{
+    padding: 10px 30px;
+    border: none;
+    background-color: rgb(65, 65, 65);
+    color: white;
+    cursor: pointer;
+}
